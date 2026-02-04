@@ -11,7 +11,7 @@ export const NO_STAGES: NoButtonStage[] = [
   { text: "You're being mean! 😭", subtext: "I'm telling your mom you're being a meanie. 😤" },
   { text: "I'm gonna cry... 🌊", subtext: "Loading tears... 10%... 40%... 😭😭😭" },
   { text: "Error: No not found 🚫", subtext: "The 'No' button is feeling neglected and might quit. 🤖" },
-  { text: "Okay, fine... 🙄", subtext: "Just click it already. I'm running out of witty comments. 💀" },
+  { text: "Okay, fine.... 🙄", subtext: "Just click it already. I'm running out of witty comments. 💀" },
 ];
 
 export const SARCASTIC_YES_MESSAGES = [
